@@ -1,4 +1,4 @@
-# exercicio-selecao-estagio-back-end
+# exercicio-selecao-back-end
 Exercício para avaliação de candidatos à estágio
 
 ## Instruções para rodar o serviço de back-end:
